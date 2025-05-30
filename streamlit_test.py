@@ -6,7 +6,7 @@ test = pd.DataFrame(
     pd.Series(['d', 2, 'e'], name='val2', dtype=str),
 )
 
-test = test['val1']
+# test = test['val1']
 
 print(test)
 
