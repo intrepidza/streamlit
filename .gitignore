@@ -3,4 +3,5 @@
 /Lib
 /Scripts
 /share
+.gitignore
 pyvenv.cfg
